@@ -5,6 +5,8 @@ You know, a Christmas tree on Bash :)
 
 Добавил Ru версию :)
 
+оригинал - https://github.com/sergiolepore/ChristBASHTree
+
 ![Screenshot](./screenshot-RU.png?raw=true)
 
 # Usage
